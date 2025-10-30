@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.8.0](https://github.com/salim-b/bluefin/compare/v3.7.0...v3.8.0) (2025-10-30)
+
+
+### Features
+
+* add util-linux-script ([32c6688](https://github.com/salim-b/bluefin/commit/32c6688cda40518aab96a1dd1d1df6e43266af17))
+
 ## [3.7.0](https://github.com/ublue-os/bluefin/compare/v3.6.0...v3.7.0) (2024-10-24)
 
 
